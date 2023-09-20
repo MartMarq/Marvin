@@ -1,7 +1,7 @@
 # Marvin
 Watchface for Watchy by SQFMI - Marvin
 
-no wifi, no bluetooth but long battery life (over 24 days if your CPU is a PCF8563 V2)
+no wifi, no bluetooth but long battery life 
 
 there is a time adjustment routine in Watchy_Marvin.cpp
 
